@@ -137,4 +137,19 @@ Enable free tier if available
 
 Update your frontend socket.io client to connect to this URL:
 const socket = io("https://chat-backend.onrender.com");
+💡 Future Improvements
+Drag and drop reordering of tasks
+
+User authentication
+
+Saving tasks to a backend (Firebase or Express API)
+
+Unit and integration testing with Vitest
+
+🙋‍♀️ Author
+Built by Stephen Okoth
+For educational and project demonstration purposes.
+
+
+
 
